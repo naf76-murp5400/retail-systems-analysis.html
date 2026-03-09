@@ -29,6 +29,7 @@ If retail RLV is negative, apartment rents need to rise about 3 percent to cover
 
 ## 4. Sensitivity Chart
 
+!{image alt}{https://github.com/naf76-murp5400/retail-systems-analysis.html/blob/f42cba1cd923df99e13bc05fabdda36c523eea36/retail_sales_sensitivity.png}
 retail_sales_sensitivity.png
 
 ---
